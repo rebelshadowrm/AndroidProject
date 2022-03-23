@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AniApp</string>
+    <string name="cardStudio">Studio: %1$s </string>
+    <string name="cardOriginal">Original: %1$s </string>
+    <string name="cardProducers">Producers: %1$s </string>
+    <string name="cardEpisodes">Episodes: %1$s </string>
+    <string name="cardDirectors">Directors: %1$s </string>
+    <string name="imageDescription">Cover Image</string>
+    <string name="title_placeholder">Title Placeholder</string>
+    <string name="characters_title">Characters</string>
+    <string name="details_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id libero sit amet sem pretium blandit eget ac orci. Etiam pharetra non erat eget placerat. Vestibulum sed nibh diam. Maecenas volutpat nunc at nunc facilisis congue. Pellentesque vestibulum eros nulla, at molestie libero finibus ut. Cras ac enim mauris. Mauris ut mauris finibus, volutpat ante semper, vehicula magna. Cras luctus leo lectus, ac commodo nisi elementum at. Mauris mattis ex eu commodo pretium. Pellentesque consectetur convallis tortor. Vestibulum posuere arcu egestas erat condimentum dignissim. Vivamus sodales sem vitae magna ornare, sed lacinia ex facilisis. Morbi leo eros, consequat a felis nec, blandit porttitor ligula. Nullam suscipit hendrerit bibendum. Nullam enim nunc, malesuada sit amet tellus ac, placerat dictum risus. Cras varius nisl vel ullamcorper egestas. Integer at sodales sapien. Suspendisse hendrerit vel magna sit amet tempus. Sed quis neque a lectus finibus dictum vitae nec ex. Sed metus neque, ornare eget nulla et, dictum rhoncus massa. Quisque libero lectus, dapibus at enim ac, imperdiet eleifend urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla egestas volutpat tellus non pretium. Nulla vehicula leo id interdum dictum. Maecenas faucibus est ac placerat venenatis.</string>
+    <string name="calendar_title_placeholder">Upcoming</string>
+    <string name="logo_image_description">AniApp Logo</string>
+    <string name="anime_title_search">Anime Title Search</string>
+    <string name="search_hint_text">search</string>
+    <string name="search_button_text">Search</string>
+    <string name="calendar_description">See all upcoming shows \n Or select a specific day of the week.</string>
+    <string name="calendar_button_text">Calendar</string>
+    <string name="search_item_placeholder">Search Item</string>
+    <string name="anime_title_placeholder">Anime Title</string>
+    <string name="episode_placeholder">Episode: %1$s</string>
+    <string name="airing_placeholder">Airing: %1$s</string>
+    <string name="character_name_placeholder">Character Name</string>
+
+    <string-array name="calendar">
+        <item>Upcoming</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
